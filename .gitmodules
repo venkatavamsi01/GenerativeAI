@@ -1,3 +1,6 @@
 [submodule "Comparative_Analysis"]
 	path = Comparative_Analysis
 	url = https://github.com/venkatavamsi01/Comparitive_Analysis.git
+[submodule "DeepSeek-AI-Agent-Code-Generation-with-Execution-Feedback"]
+	path = DeepSeek-AI-Agent-Code-Generation-with-Execution-Feedback
+	url = https://github.com/venkatavamsi01/DeepSeek-AI-Agent-Code-Generation-with-Execution-Feedback.git
