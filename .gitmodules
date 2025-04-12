@@ -4,3 +4,6 @@
 [submodule "DeepSeek-AI-Agent-Code-Generation-with-Execution-Feedback"]
 	path = DeepSeek-AI-Agent-Code-Generation-with-Execution-Feedback
 	url = https://github.com/venkatavamsi01/DeepSeek-AI-Agent-Code-Generation-with-Execution-Feedback.git
+[submodule "RAG-Web-Scraping-LangChain-Selenium-ChromaDB"]
+	path = RAG-Web-Scraping-LangChain-Selenium-ChromaDB
+	url = https://github.com/venkatavamsi01/RAG-Web-Scraping-LangChain-Selenium-ChromaDB
